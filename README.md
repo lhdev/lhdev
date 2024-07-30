@@ -50,6 +50,11 @@ Na visão geral abaixo você encontrará minhas formação acadêmica:
 <h2>Algoritimo e Lógica de Programação</h2>
 Linguagens & Tecnologias -  C, C++, C#, Java, Python
 
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/Wzr34m57/udemy.png"/>
+<h2>JavaScript do básico ao Avançado (Node.JS) </h2>
+Linguagens & Tecnologias -  JavaScript, NodeJS, Express, VanillaJS  
+
+
 
 
 
