@@ -44,6 +44,7 @@ Na visão geral abaixo você encontrará minhas formação acadêmica:
 🎯3º Semestre
 
 <br>
+<br>
 
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/Wzr34m57/udemy.png"/>
 <h2>Algoritimo e Lógica de Programação</h2>
