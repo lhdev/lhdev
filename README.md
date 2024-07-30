@@ -43,9 +43,13 @@ Na visão geral abaixo você encontrará minhas formação acadêmica:
 <h2>Análise e Desenvolvimento de Sistemas</h1>
 🎯3º Semestre
 
+<br>
+
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/Wzr34m57/udemy.png"/>
 <h2>Algoritimo e Lógica de Programação</h2>
 Linguagens & Tecnologias -  C, C++, C#, Java, Python
+
+<br>
 
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/Wzr34m57/udemy.png"/>
 <h2>JavaScript do básico ao Avançado (Node.JS) </h2>
