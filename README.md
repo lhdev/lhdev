@@ -8,7 +8,7 @@ O meu nome é Lucas, Seja bem-vindo(a) ao meu perfil GitHub.
   <li>🚩Sou de São Paulo/SP, Brazil</li>
   <li>⚡Apaixonado por Música e Tecnologia</li>
   <li>👨‍💻Estudante de Análise e Desenvolvimento de Sistemas na FAM</li>
-  <li>🏃‍♂️Atualmente não estou trabalhando, apenas estudando e procurando estágio</li>
+  <li>🏃‍♂️Atualmente trabalho como analista de sistemas na StartUp BIZIFY</li>
 </ul>
 <hr>
 <b>Estou aprendendo sobre:</b>
