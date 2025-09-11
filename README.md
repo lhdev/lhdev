@@ -41,7 +41,7 @@ Na visão geral abaixo você encontrará minhas formação acadêmica:
 
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/CMCwrKnX/faculdade.png"/>
 <h2>Análise e Desenvolvimento de Sistemas</h1>
-🎯4º Semestre
+🎯Formado
 
 <br>
 <br>
