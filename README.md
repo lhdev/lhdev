@@ -8,7 +8,8 @@ O meu nome é Lucas, Seja bem-vindo(a) ao meu perfil GitHub.
   <li>🚩Sou de São Paulo/SP, Brazil</li>
   <li>⚡Apaixonado por Música e Tecnologia</li>
   <li>👨‍💻Formado em Analise e Desenvolvimento de Sistemas</li>
-  <li>🏃‍♂️Atualmente trabalho como analista de sistemas no IOSI Energia LTDA</li>
+  <li>👨‍💻Cusando Pós em DevOps na Anhaguera</li>
+  <li>🏃‍♂️Atualmente trabalho como analista de infraestrutura e sistemas no IOSI Energia LTDA</li>
 </ul>
 <hr>
 <b>Estou aprendendo sobre:</b>
